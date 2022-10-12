@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="maven">
+    <output-path>$PROJECT_DIR$/out/artifacts/maven</output-path>
+    <root id="root" />
+  </artifact>
+</component>

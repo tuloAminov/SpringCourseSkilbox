@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCourseSkilbox.iml" filepath="$PROJECT_DIR$/.idea/SpringCourseSkilbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework1/xml_maven_project/simple_mvc.iml" filepath="$PROJECT_DIR$/homework1/xml_maven_project/simple_mvc.iml" />
+    </modules>
+  </component>
+</project>
