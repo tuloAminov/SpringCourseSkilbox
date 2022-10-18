@@ -10,7 +10,6 @@ public class Book {
     private String author;
     @NotEmpty(message = "Title may not be empty")
     private String title;
-    @NotNull(message= "Size may not be empty")
     @Min(value=1, message = "Size should be greater than 0")
     private Integer size;
 

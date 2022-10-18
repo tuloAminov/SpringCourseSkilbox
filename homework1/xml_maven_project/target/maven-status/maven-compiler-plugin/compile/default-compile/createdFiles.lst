@@ -1,8 +1,0 @@
-ru\springMVC\project\app\services\LoginService.class
-ru\springMVC\project\web\dto\LoginForm.class
-ru\springMVC\project\web\controllers\LoginController.class
-ru\springMVC\project\app\services\BookService.class
-ru\springMVC\project\app\services\ProjectRepository.class
-ru\springMVC\project\app\services\BookRepository.class
-ru\springMVC\project\web\controllers\BookShelfController.class
-ru\springMVC\project\web\dto\Book.class
