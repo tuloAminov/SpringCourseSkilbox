@@ -96,11 +96,13 @@
       <div class="Section">
         <div class="Authors">
           <span th:each="alphabet : ${alphabet}"><a class="Authors-link" th:text="${alphabet}">href</a></span>
-          <div class="Authors-block" th:each="char : ${alphabet}">
+          <div class="Authors-block" th:each="entry : ${authorData.entrySet()}">
             <br>
-            <h2 class="Authors-title" th:text="${char}">char</h2>
+            <h2 class="Authors-title" th:text="${entry.getKey()}">char</h2>
             <div class="Authors-letter">
-              <div class="Authors-item" th:each="author : ${authorData}"><a href="/authors/slug.html" th:text="${author.author}">Author</a></div>
+              <div class="Authors-item" th:each="author : ${entry.getValue()}">
+                <a href="/authors/slug.html" th:text="${author}"></a>
+              </div>
             </div>
           </div>
         </div>
