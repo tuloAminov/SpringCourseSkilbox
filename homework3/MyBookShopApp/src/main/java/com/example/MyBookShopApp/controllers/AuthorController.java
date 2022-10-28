@@ -21,7 +21,7 @@ public class AuthorController {
     @GetMapping()
     public String author(Model model) {
         model.addAttribute("alphabet", authorService.alphabet());
-        model.addAttribute("authorData", authorService.getAuthorsData());
+        model.addAttribute("authorData", authorService.getAuthorsMap());
         return "author/author";
     }
 }
