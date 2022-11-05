@@ -19,6 +19,7 @@
       <sourceFolder url="file://$MODULE_DIR$/homework2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/homework2/ulearn/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/xml_maven_project" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homework4/MyBookShopApp/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
