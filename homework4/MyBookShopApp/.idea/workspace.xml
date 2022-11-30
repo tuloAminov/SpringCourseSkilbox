@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="665c3d2c-dc0e-42bf-8a3c-8747354c4ec2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/MyBookShopApp/MyBookShopAppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/MyBookShopApp/config/CommandLineRunnerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/MyBookShopApp/config/LocaleChangeConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/MyBookShopApp/controllers/AuthorsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/MyBookShopApp/controllers/MainPageController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/MyBookShopApp/data/AbstractHibernateDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/MyBookShopApp/data/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/MyBookShopApp/data/AuthorRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/MyBookShopApp/data/AuthorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/MyBookShopApp/data/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/MyBookShopApp/data/BookRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/MyBookShopApp/data/BookService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/MyBookShopApp/data/TestEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/MyBookShopApp/data/TestEntityCrudRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/MyBookShopApp/data/TestEntityDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/SkillboxJavaFrameworkSpringCourseDataStructureApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/author/AuthorEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/book/BookEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/book/file/BookFileEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/book/file/BookFileTypeEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/book/file/FileDownloadEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/book/links/Book2AuthorEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/book/links/Book2GenreEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/book/links/Book2UserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/book/links/Book2UserTypeEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/book/review/BookReviewEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/book/review/BookReviewLikeEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/book/review/MessageEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/enums/ContactType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/genre/GenreEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/other/DocumentEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/other/FaqEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/payments/BalanceTransactionEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/user/UserContactEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skbx/example/struct/user/UserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/lang/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/lang/messages_en.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/lang/messages_ru.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/other/skillbox_java_framework_spring_db.uml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/other/skillbox_java_framework_spring_db_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/css/basic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/css/basic.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/css/extra.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/css/extra.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/css/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/css/fonts.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Black.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Black.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Black.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Black.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Bold.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-ExtraBold.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-ExtraBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-ExtraBold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-ExtraBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-ExtraBold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-ExtraLight.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-ExtraLight.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-ExtraLight.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-ExtraLight.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-ExtraLight.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Light.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Medium.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Medium.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Regular.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-SemiBold.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-SemiBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-SemiBold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-SemiBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-SemiBold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Thin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Thin.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Thin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/fonts/Montserrat/Montserrat-Thin.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/bg/books.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/bg/entry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/bg/entry_old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/bg/entry_phone.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/bg/entry_phone_old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/content/documents/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/content/documents/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/content/main/card.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/archive.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/arrowRightSlider.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/arrow_hide.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/bookBuy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/cart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/comment/dislike.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/comment/like.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/download.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/heart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/like.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/likeIn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/login.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/myBook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/myBook1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/putInCart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/shopping-basket.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/socialFooter/fb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/socialFooter/in.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/socialFooter/mail.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/socialFooter/pt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/socialFooter/tw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/trash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/icons/trash1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/img/logo_footer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/js/scripts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/Slider/slick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/form/jquery.form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/form/jquery.maskedinput.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jCalendar/datepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jCalendar/datepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jCalendar/datepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jCalendar/i18n/datepicker.cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jCalendar/i18n/datepicker.da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jCalendar/i18n/datepicker.de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jCalendar/i18n/datepicker.en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jCalendar/i18n/datepicker.es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jCalendar/i18n/datepicker.fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jCalendar/i18n/datepicker.fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jCalendar/i18n/datepicker.hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jCalendar/i18n/datepicker.nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jCalendar/i18n/datepicker.pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jCalendar/i18n/datepicker.pt-BR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jCalendar/i18n/datepicker.pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jCalendar/i18n/datepicker.ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jCalendar/i18n/datepicker.sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jCalendar/i18n/datepicker.zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jQuery/jquery-3.5.0.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/assets/plg/jQuery/jquery-3.5.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/authors/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/authors/slug.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/books/author.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/books/popular.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/books/recent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/books/slug.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/books/slugmy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/basic/breadcrumbs/breadcrumbs.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/basic/button/button.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/basic/form/form.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/basic/jCalendar/jCalendar.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/basic/logo/logo.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/basic/media/media.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/basic/menu/menu.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/basic/modal/modal.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/basic/pict/pict.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/basic/row/row.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/basic/search/search.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/basic/table/table.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/basic/tags/tags.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/basic/wrap/wrap.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Article/Article.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Author/Author.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Authors/Authors.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Card/Card.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Cart/Cart.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/CartBlock/CartBlock.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Comments/Comments.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Contacts/Contacts.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Documents/Documents.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/FAQ/FAQ.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Footer/Footer.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Header/Header.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/HideBlock/HideBlock.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Login/Login.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Middle/Middle.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Product/Product.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/ProductCard/ProductCard.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Profile/Profile.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Rating/Rating.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Section/Section.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Slider/Slider.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Spoiler/Spoiler.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Tabs/Tabs.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Tags/Tags.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Topup/Topup.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/bricks/extra/Transactions/Transactions.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/contacts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/documents/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/documents/slug.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/faq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/fragments/author_article_fragment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/fragments/book_description_fragment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/fragments/book_reviews_fragment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/fragments/book_slider_fragment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/fragments/book_slug_buttons_fragment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/fragments/books_pool_fragment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/fragments/breadcrumb_fragment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/fragments/cart_block_fragment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/fragments/common_footer_fragment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/fragments/common_header_fragment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/fragments/footer_left_side_info_block_fragment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/fragments/politics_text_fragment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/fragments/tag_cloud_fragment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/genres/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/genres/slug.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/my.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/myarchive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/postponed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/search/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/signing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/basic.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/cosmetic.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/extra.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/frame-function.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/frame-style.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/icons.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/mixins.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/normalize.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus-mixins/clearfix.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus-mixins/helpers/col-span-width.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus-mixins/helpers/timing-functions.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus-mixins/ie.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus-mixins/index.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus-mixins/media/hidpi.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus-mixins/media/width-height.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus-mixins/opacity.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus-mixins/text/ellipsis.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus-mixins/text/font-face.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus-mixins/text/hide-text.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus-mixins/triangle.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus-mixins/units/em.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus-mixins/units/percentage.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus-mixins/units/ratio-percentage.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus-mixins/units/ratio.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus-mixins/units/rem.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus-mixins/units/tracking.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/frame-function.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/frame-style.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/icons.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/mixins.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/normalize.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/scripts/index.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/scripts/scripts.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/scripts/slick.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/stylus-mixins/clearfix.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/stylus-mixins/helpers/col-span-width.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/stylus-mixins/helpers/timing-functions.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/stylus-mixins/ie.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/stylus-mixins/index.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/stylus-mixins/media/hidpi.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/stylus-mixins/media/width-height.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/stylus-mixins/opacity.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/stylus-mixins/text/ellipsis.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/stylus-mixins/text/font-face.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/stylus-mixins/text/hide-text.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/stylus-mixins/triangle.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/stylus-mixins/units/em.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/stylus-mixins/units/percentage.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/stylus-mixins/units/ratio-percentage.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/stylus-mixins/units/ratio.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/stylus-mixins/units/rem.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/stylus-mixins/units/tracking.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/stylus/variables.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/stylus/variables.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/swagger.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-frontend/tags/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/MyBookShopApp/MyBookShopAppApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IHFFSYYT5Br4bXSvoetl2YcMT9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/ya/IdeaProjects/SpringCourseSkilbox/homework5/MyBookShopApp",
+    "settings.editor.selected.configurable": "File.Encoding"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="665c3d2c-dc0e-42bf-8a3c-8747354c4ec2" name="Changes" comment="" />
+      <created>1669830497943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669830497943</updated>
+      <workItem from="1669830499279" duration="406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
