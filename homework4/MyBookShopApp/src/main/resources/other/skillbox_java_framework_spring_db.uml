@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>cb26e3d3-e1ac-4417-858c-fa78abcb42f4.DATABASE:skbx_jfs</OriginalElement>
+  <nodes>
+    <node x="3045.0492725711324" y="631.069170547155">cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.author</node>
+    <node x="2782.436194751381" y="786.2725124108691">cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book_file_type</node>
+    <node x="3283.59560494625" y="-108.83424391964127">cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book_review</node>
+    <node x="2406.436194751381" y="78.63746031946442">cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.file_download</node>
+    <node x="2159.436194751381" y="786.2725124108691">cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.faq</node>
+    <node x="2356.436194751381" y="-108.83424391964127">cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.balance_transaction</node>
+    <node x="2573.436194751381" y="786.2725124108691">cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book2user_type</node>
+    <node x="3283.59560494625" y="162.30551011199555">cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book_review_like</node>
+    <node x="2379.436194751381" y="786.2725124108691">cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book_file</node>
+    <node x="2708.742733661257" y="162.30551011199555">cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.users</node>
+    <node x="1962.436194751382" y="402.42757267436014">cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book</node>
+    <node x="1962.4361947513817" y="786.2725124108691">cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.document</node>
+    <node x="2409.436194751381" y="402.42757267436014">cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book2genre</node>
+    <node x="3028.0492725711324" y="162.30551011199555">cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.user_contact</node>
+    <node x="2396.436194751381" y="538.7459807901502">cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book2author</node>
+    <node x="3030.5492725711324" y="-108.83424391964127">cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.message</node>
+    <node x="3046.0492725711324" y="471.2489185902069">cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.genre</node>
+    <node x="2411.936194751381" y="222.10916455857011">cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book2user</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book2user" target="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.users" relationship="REFERENCES">
+      <point x="67.0" y="-59.80365444657457" />
+      <point x="-81.0" y="0.0" />
+    </edge>
+    <edge source="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book_review" target="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book" relationship="REFERENCES">
+      <point x="0.0" y="-72.0" />
+      <point x="3351.59560494625" y="-126.33424391964127" />
+      <point x="1987.936" y="-126.33424391964127" />
+      <point x="-60.00019475138197" y="-116.0" />
+    </edge>
+    <edge source="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book2author" target="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book" relationship="REFERENCES">
+      <point x="-76.0" y="0.0" />
+      <point x="85.49999999999977" y="81.31840811579002" />
+    </edge>
+    <edge source="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book_review" target="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.users" relationship="REFERENCES">
+      <point x="0.0" y="72.0" />
+      <point x="3351.59560494625" y="126.66575608035873" />
+      <point x="2819.7427934652424" y="126.66575608035873" />
+      <point x="30.00005980398555" y="-72.0" />
+    </edge>
+    <edge source="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.message" target="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.users" relationship="REFERENCES">
+      <point x="-83.5" y="0.0" />
+      <point x="2789.7427934652424" y="-14.834243919641267" />
+      <point x="5.980398555038846E-5" y="-72.0" />
+    </edge>
+    <edge source="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.file_download" target="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book" relationship="REFERENCES">
+      <point x="-72.5" y="0.0" />
+      <point x="2047.9359999999997" y="139.63746031946442" />
+      <point x="-1.947513821960456E-4" y="-116.0" />
+    </edge>
+    <edge source="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.balance_transaction" target="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book" relationship="REFERENCES">
+      <point x="-97.5" y="0.0" />
+      <point x="2017.936" y="-25.834243919641267" />
+      <point x="-30.00019475138197" y="-116.0" />
+    </edge>
+    <edge source="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.user_contact" target="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.users" relationship="REFERENCES">
+      <point x="-86.0" y="-33.0" />
+      <point x="81.0" y="0.0" />
+    </edge>
+    <edge source="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book2author" target="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.author" relationship="REFERENCES">
+      <point x="76.0" y="38.8231897570048" />
+      <point x="-78.0" y="-64.5" />
+    </edge>
+    <edge source="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book2genre" target="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book" relationship="REFERENCES">
+      <point x="-69.5" y="0.0" />
+      <point x="85.49999999999977" y="-66.0" />
+    </edge>
+    <edge source="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book2genre" target="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.genre" relationship="REFERENCES">
+      <point x="69.5" y="26.32134591584679" />
+      <point x="-77.0" y="-53.5" />
+    </edge>
+    <edge source="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.balance_transaction" target="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.users" relationship="REFERENCES">
+      <point x="97.5" y="-4.0" />
+      <point x="2774.7427934652424" y="-29.834243919641267" />
+      <point x="-14.99994019601445" y="-72.0" />
+    </edge>
+    <edge source="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book2user" target="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book" relationship="REFERENCES">
+      <point x="-67.0" y="0.0" />
+      <point x="2062.9359999999997" y="294.1091645585701" />
+      <point x="14.999805248617804" y="-116.0" />
+    </edge>
+    <edge source="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.book_review_like" target="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.users" relationship="REFERENCES">
+      <point x="0.0" y="72.0" />
+      <point x="3369.59560494625" y="409.92757267436014" />
+      <point x="2789.936194751381" y="409.92757267436014" />
+      <point x="0.19346109012440138" y="72.0" />
+    </edge>
+    <edge source="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.file_download" target="cb26e3d3-e1ac-4417-858c-fa78abcb42f4.TABLE:skbx_jfs.public.users" relationship="REFERENCES">
+      <point x="72.5" y="30.16804979253112" />
+      <point x="-81.0" y="-64.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.6651333946642134" showDependencies="false" x="2709.0" y="397.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Columns</Category>
+    <Category>Key columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
