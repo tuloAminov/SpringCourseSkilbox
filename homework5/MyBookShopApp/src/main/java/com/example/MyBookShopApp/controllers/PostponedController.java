@@ -10,4 +10,14 @@ public class PostponedController {
     public String postponedPage(){
         return "/postponed";
     }
+    
+    @GetMapping("/about")
+    public String about(){
+        return "/about";
+    }
+    
+    @GetMapping("/contacts")
+    public String contacts(){
+        return "/contacts";
+    }
 }
