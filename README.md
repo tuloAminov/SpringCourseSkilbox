@@ -1,1 +1,1 @@
-# SpringCourseSkilbox
+# Онлайн-магазин по продаже книг
